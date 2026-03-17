@@ -1,0 +1,10 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "OPENSEC",
+  "classifications": [ "Common", "Selenium", "Browser" ],
+  "identity": "OPENSEC.BrowserFactory",
+  "name": "BrowserFactory ChromeDriver Helper",
+  "shortName": "browserfactory",
+  "type": "item",
+  "description": "Standard ChromeDriver initialization using WebDriverManager with Offline-First strategy."
+}

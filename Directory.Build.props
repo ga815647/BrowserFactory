@@ -1,0 +1,7 @@
+<Project>
+  <ItemGroup>
+    <PackageReference Include="Selenium.WebDriver"             Version="4.*" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="4.*" />
+    <PackageReference Include="WebDriverManager"               Version="2.*" />
+  </ItemGroup>
+</Project>
